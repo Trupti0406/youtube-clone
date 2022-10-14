@@ -11,15 +11,18 @@ import GraphicEqIcon from "@mui/icons-material/GraphicEq";
 import TheaterComedyIcon from "@mui/icons-material/TheaterComedy";
 import FitnessCenterIcon from "@mui/icons-material/FitnessCenter";
 import DeveloperModeIcon from "@mui/icons-material/DeveloperMode";
+import PublicIcon from "@mui/icons-material/Public";
+import HtmlIcon from "@mui/icons-material/Html";
+import ScienceIcon from "@mui/icons-material/Science";
 
 export const logo = "https://i.ibb.co/s9Qys2j/logo.png";
 
 export const categories = [
   { name: "New", icon: <HomeIcon /> },
-  { name: "JS Mastery", icon: <CodeIcon /> },
+  { name: "BBC Earth", icon: <PublicIcon/> },
+  { name: "Science", icon: <ScienceIcon /> },
   { name: "Coding", icon: <CodeIcon /> },
-  { name: "ReactJS", icon: <CodeIcon /> },
-  { name: "NextJS", icon: <CodeIcon /> },
+  // { name: "HTML", icon: <HtmlIcon /> },
   { name: "Music", icon: <MusicNoteIcon /> },
   { name: "Education", icon: <SchoolIcon /> },
   { name: "Podcast", icon: <GraphicEqIcon /> },
