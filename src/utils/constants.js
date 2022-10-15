@@ -12,7 +12,6 @@ import TheaterComedyIcon from "@mui/icons-material/TheaterComedy";
 import FitnessCenterIcon from "@mui/icons-material/FitnessCenter";
 import DeveloperModeIcon from "@mui/icons-material/DeveloperMode";
 import PublicIcon from "@mui/icons-material/Public";
-import HtmlIcon from "@mui/icons-material/Html";
 import ScienceIcon from "@mui/icons-material/Science";
 
 export const logo = "https://i.ibb.co/s9Qys2j/logo.png";
