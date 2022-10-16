@@ -13,15 +13,17 @@ import FitnessCenterIcon from "@mui/icons-material/FitnessCenter";
 import DeveloperModeIcon from "@mui/icons-material/DeveloperMode";
 import PublicIcon from "@mui/icons-material/Public";
 import ScienceIcon from "@mui/icons-material/Science";
+import ChildCareIcon from "@mui/icons-material/ChildCare";
+import SportsSoccerIcon from "@mui/icons-material/SportsSoccer";
 
 export const logo = "https://i.ibb.co/s9Qys2j/logo.png";
 
 export const categories = [
   { name: "New", icon: <HomeIcon /> },
-  { name: "BBC Earth", icon: <PublicIcon/> },
+  { name: "BBC Earth", icon: <PublicIcon /> },
   { name: "Science", icon: <ScienceIcon /> },
   { name: "Coding", icon: <CodeIcon /> },
-  // { name: "HTML", icon: <HtmlIcon /> },
+  { name: "WB Kids", icon: <ChildCareIcon /> },
   { name: "Music", icon: <MusicNoteIcon /> },
   { name: "Education", icon: <SchoolIcon /> },
   { name: "Podcast", icon: <GraphicEqIcon /> },
