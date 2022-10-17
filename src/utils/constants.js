@@ -14,16 +14,17 @@ import DeveloperModeIcon from "@mui/icons-material/DeveloperMode";
 import PublicIcon from "@mui/icons-material/Public";
 import ScienceIcon from "@mui/icons-material/Science";
 import ChildCareIcon from "@mui/icons-material/ChildCare";
-import SportsSoccerIcon from "@mui/icons-material/SportsSoccer";
+import MovieIcon from "@mui/icons-material/Movie";
+
 
 export const logo = "https://i.ibb.co/s9Qys2j/logo.png";
-
 export const categories = [
   { name: "New", icon: <HomeIcon /> },
   { name: "BBC Earth", icon: <PublicIcon /> },
   { name: "Science", icon: <ScienceIcon /> },
   { name: "Coding", icon: <CodeIcon /> },
   { name: "WB Kids", icon: <ChildCareIcon /> },
+  { name: "Viralbollywood", icon: <MovieIcon /> },
   { name: "Music", icon: <MusicNoteIcon /> },
   { name: "Education", icon: <SchoolIcon /> },
   { name: "Podcast", icon: <GraphicEqIcon /> },
